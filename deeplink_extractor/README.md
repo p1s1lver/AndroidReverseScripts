@@ -16,7 +16,7 @@ This tool is designed to extract all deeplinks from an AndroidManifest.xml file 
 ## Example
 
 ```
-python deeplink_extractor.py app/src/main/AndroidManifest.xml
+python deeplink_extractor.py
 ```
 
-This will output all deeplinks found in the `AndroidManifest.xml` file located in the `app/src/main` directory.
+![record.png](screenshots/record.png)
